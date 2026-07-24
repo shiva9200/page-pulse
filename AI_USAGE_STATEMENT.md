@@ -1,0 +1,1 @@
+AI was used to accelerate implementation, generate initial code structure, improve documentation, and review architecture decisions. All generated code and documents were manually reviewed, modified, tested, and adapted before submission.
